@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['readme_2emd_168',['README.md',['../d9/dd6/_r_e_a_d_m_e_8md.html',1,'']]]
+  ['sscal_168',['sscal',['../d9/d0e/group__level1.html#gad27a7898357a6e6338a2df77df2ce742',1,'kk::level1']]]
 ];

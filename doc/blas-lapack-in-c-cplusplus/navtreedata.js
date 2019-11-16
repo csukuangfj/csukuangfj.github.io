@@ -23,10 +23,11 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "BLAS/LAPACK in C and C++", "index.html", [
-    [ "Introduction", "d3/dcc/md__r_e_a_d_m_e.html", [
-      [ "BLAS", "d3/dcc/md__r_e_a_d_m_e.html#autotoc_md1", null ],
-      [ "Documentation", "d3/dcc/md__r_e_a_d_m_e.html#autotoc_md2", null ],
-      [ "References", "d3/dcc/md__r_e_a_d_m_e.html#autotoc_md3", null ]
+    [ "Table of contents", "da/d83/md_readme.html", [
+      [ "Introduction", "da/d83/md_readme.html#autotoc_md1", null ],
+      [ "cblas", "da/d83/md_readme.html#autotoc_md2", null ],
+      [ "Documentation", "da/d83/md_readme.html#autotoc_md3", null ],
+      [ "References", "da/d83/md_readme.html#autotoc_md4", null ]
     ] ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
@@ -51,7 +52,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"d3/dcc/md__r_e_a_d_m_e.html"
+"d5/d5c/my__blas__implementation_8cc.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

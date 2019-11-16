@@ -1,9 +1,5 @@
 var NAVTREEINDEX0 =
 {
-"d3/dcc/md__r_e_a_d_m_e.html":[0],
-"d3/dcc/md__r_e_a_d_m_e.html#autotoc_md1":[0,0],
-"d3/dcc/md__r_e_a_d_m_e.html#autotoc_md2":[0,1],
-"d3/dcc/md__r_e_a_d_m_e.html#autotoc_md3":[0,2],
 "d5/d5c/my__blas__implementation_8cc.html":[3,0,1],
 "d5/d5c/my__blas__implementation_8cc.html#gad27a7898357a6e6338a2df77df2ce742":[3,0,1,0],
 "d5/d5c/my__blas__implementation_8cc_source.html":[3,0,1],
@@ -16,6 +12,11 @@ var NAVTREEINDEX0 =
 "d7/d6c/my__blas__implementation_8h_source.html":[3,0,2],
 "d9/d0e/group__level1.html":[1,0],
 "d9/d0e/group__level1.html#gad27a7898357a6e6338a2df77df2ce742":[1,0,0],
+"da/d83/md_readme.html":[0],
+"da/d83/md_readme.html#autotoc_md1":[0,0],
+"da/d83/md_readme.html#autotoc_md2":[0,1],
+"da/d83/md_readme.html#autotoc_md3":[0,2],
+"da/d83/md_readme.html#autotoc_md4":[0,3],
 "dd/da1/namespacekk.html":[2,0,0],
 "de/da0/cblas_8h.html":[3,0,0],
 "de/da0/cblas_8h.html#a01b5131bf1e9a89843977e9385e53619":[3,0,0,33],

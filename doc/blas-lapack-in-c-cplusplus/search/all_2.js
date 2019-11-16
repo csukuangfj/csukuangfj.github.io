@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['kk_162',['kk',['../dd/da1/namespacekk.html',1,'']]],
-  ['level1_163',['level1',['../df/d7e/namespacekk_1_1level1.html',1,'kk']]]
+  ['level_201_20functions_2e_163',['Level 1 functions.',['../d9/d0e/group__level1.html',1,'']]]
 ];
