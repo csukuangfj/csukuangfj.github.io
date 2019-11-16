@@ -99,14 +99,15 @@ $(document).ready(function(){initNavTree('da/d83/md_readme.html','../../');});
 <div class="textblock"><ul>
 <li><a href="../../#introduction">Introduction</a></li>
 <li><a href="../../#cblas">cblas.h</a></li>
+<li><a href="../../#mkl">MKL</a></li>
 <li><a href="../../#documentation">Documentation</a></li>
 <li><a href="../../#references">References</a></li>
 </ul>
-<h1><a class="anchor" id="autotoc_md1"></a>
+<h1><a class="anchor" id="autotoc_md2"></a>
 Introduction</h1>
 <p>This <a href="https://github.com/csukuangfj/blas-lapack-in-c-cplusplus">repository</a> contains little examples for using BLAS/Lapack in C/C++. It can be used to build a large library for numerical linear algebra.</p>
-<p>A straightforward reference implementation of the BLAS interface is provided in <a href="https://github.com/csukuangfj/blas-lapack-in-c-cplusplus/my_blas_implementation.h">my_blas_implementation.h</a> (still on-going).</p>
-<h1><a class="anchor" id="autotoc_md2"></a>
+<p>A straightforward reference implementation of the BLAS interface is provided in <a href="https://github.com/csukuangfj/blas-lapack-in-c-cplusplus/blob/master/my_blas_implementation.h">my_blas_implementation.h</a> (still on-going).</p>
+<h1><a class="anchor" id="autotoc_md3"></a>
 cblas</h1>
 <p>The header file <code><a class="el" href="../../de/da0/cblas_8h.html">cblas.h</a></code> can be obtained via</p>
 <div class="fragment"><div class="line">wget http://www.netlib.org/blas/cblas.h</div>
@@ -116,7 +117,10 @@ cblas</h1>
 <div class="line">  /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib (compatibility version 1.0.0, current version 1.0.0)</div>
 <div class="line">  /usr/lib/libc++.1.dylib (compatibility version 1.0.0, current version 120.1.0)</div>
 <div class="line">  /usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1226.10.1)</div>
-</div><!-- fragment --><h1><a class="anchor" id="autotoc_md3"></a>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md4"></a>
+MKL</h1>
+<p>Refer to <a href="https://github.com/csukuangfj/blas-lapack-in-c-cplusplus/blob/master/install-mkl.md">./install-mkl.md</a> for installing MKL on macOS.</p>
+<h1><a class="anchor" id="autotoc_md5"></a>
 Documentation</h1>
 <p>We use <a href="http://www.doxygen.nl/manual/">Doxygen</a> for documentation generation.</p>
 <p>To install doxygen on macOS, use</p>
@@ -126,17 +130,23 @@ Documentation</h1>
 <div class="fragment"><div class="line">./run-doxygen.sh</div>
 </div><!-- fragment --><p> and you'll get the html pages under the directory <code>doxygen/html</code>.</p>
 <p>You can find the generated documentation <a href="https://csukuangfj.github.io/doc/blas-lapack-in-c-cplusplus/index.html">here</a>.</p>
-<h1><a class="anchor" id="autotoc_md4"></a>
+<h1><a class="anchor" id="autotoc_md6"></a>
 References</h1>
 <ul>
 <li><a href="https://www.netlib.org/blas/">https://www.netlib.org/blas/</a></li>
+<li>[Intel(R) Math Kernel Library (Intel(R) MKL) Documentation], doc from scc.ustc.edu.cn</li>
 <li><a href="https://www.gnu.org/software/gsl/doc/html/cblas.html">GSL CBLAS Library</a></li>
 <li><a href="https://software.intel.com/en-us/articles/intel-math-kernel-library-intel-mkl-blas-cblas-and-lapack-compilinglinking-functions-fortran-and-cc-calls#1">Intel® Math Kernel Library (Intel® MKL) - BLAS, CBLAS and LAPACK Compiling/Linking Functions &amp;Fortran and C/C++ Calls</a></li>
-<li><a href="https://developer.apple.com/documentation/accelerate/blas?language=objc">https://developer.apple.com/documentation/accelerate/blas?language=objc</a> </li>
+<li><a href="https://developer.apple.com/documentation/accelerate/blas?language=objc">https://developer.apple.com/documentation/accelerate/blas?language=objc</a></li>
+<li><a href="http://www.icl.utk.edu/~mgates3/docs/lapack.html">Routines for BLAS, LAPACK, MAGMA</a></li>
+<li><a href="https://software.intel.com/sites/default/files/mkl-2019-developer-reference-c_3.pdf">Intel® Math Kernel Library Developer Reference</a> pdf</li>
+<li><a href="http://registrationcenter.intel.com/irc_nas/2690/mkl_userguide_lnx.pdf">Intel® Math Kernel Library for Linux OS User Guide</a> pdf</li>
+<li><a href="https://jp.xlsoft.com/documents/intel/mkl/2017/mkl_2017_osx_devguide.pdf">Intel® Math Kernel Library for macOS Developer Guide</a>, pdf </li>
 </ul>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->
+<!-- HTML footer for doxygen 1.8.17-->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
@@ -145,5 +155,5 @@ References</h1>
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>
 </div>
-</body>
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152706513-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', "UA-152706513-1"); </script></body>
 </html>

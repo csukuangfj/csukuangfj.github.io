@@ -1,6 +1,30 @@
 <map id="main" name="main">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,56,57"/>
-<area shape="rect" id="node2" href="$d5/dd4/test__blas_8cc.html#a0cb6c828c69113e43e9cc403c1956607" title=" " alt="" coords="104,31,224,57"/>
-<area shape="rect" id="node3" href="$de/da0/cblas_8h.html#a5b3ca82c14437efc3929439e43e42d71" title=" " alt="" coords="285,5,376,32"/>
-<area shape="rect" id="node4" href="$d9/d0e/group__level1.html#gad27a7898357a6e6338a2df77df2ce742" title="scale x with alpha." alt="" coords="273,56,389,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,436,56,463"/>
+<area shape="rect" id="node2" href="$d5/dd4/test__blas_8cc.html#abc34f6b74417c8377af1493661bde51f" title="absolute maximum" alt="" coords="105,56,237,83"/>
+<area shape="rect" id="node5" href="$d5/dd4/test__blas_8cc.html#a16b2c44a033e21e8dfa856ff2e5ce81b" title=" " alt="" coords="106,157,235,184"/>
+<area shape="rect" id="node8" href="$d5/dd4/test__blas_8cc.html#af6852438d22c1f2b02d4107939994480" title=" " alt="" coords="109,259,233,285"/>
+<area shape="rect" id="node11" href="$d5/dd4/test__blas_8cc.html#a5923400973e6449856f66104237f13f4" title=" " alt="" coords="109,360,233,387"/>
+<area shape="rect" id="node14" href="$d5/dd4/test__blas_8cc.html#a024efef7c408af56a6a95c6912f2c790" title=" " alt="" coords="113,436,228,463"/>
+<area shape="rect" id="node17" href="$d5/dd4/test__blas_8cc.html#a650ec02ae7f1463fe554eb94d2ee477c" title=" " alt="" coords="106,512,235,539"/>
+<area shape="rect" id="node20" href="$d5/dd4/test__blas_8cc.html#ae51a9bbc8144da684f5c107f3fc09a2c" title=" " alt="" coords="107,613,234,640"/>
+<area shape="rect" id="node23" href="$d5/dd4/test__blas_8cc.html#a0cb6c828c69113e43e9cc403c1956607" title=" " alt="" coords="111,715,231,741"/>
+<area shape="rect" id="node26" href="$d5/dd4/test__blas_8cc.html#a2c4781650acc37748f06e1073ebfa8e0" title=" " alt="" coords="107,816,234,843"/>
+<area shape="rect" id="node3" href="$de/da0/cblas_8h.html#a7ecf33f60f99f563254ffb4f79e3fb80" title=" " alt="" coords="298,5,401,32"/>
+<area shape="rect" id="node4" href="$d9/d0e/group__level1.html#ga3c6caf77db44f61822a9b4a6abba025b" title="Return the index i such that abs(X[i*incX]) is the maximum." alt="" coords="286,56,413,83"/>
+<area shape="rect" id="node6" href="$de/da0/cblas_8h.html#ac6a3fe684fd62b637ac65329a3bf04a0" title=" " alt="" coords="299,107,399,133"/>
+<area shape="rect" id="node7" href="$d9/d0e/group__level1.html#gac0300659393508536b4285434c7308a9" title="Sum of the absolute values of a vector: y = sum(abs(x[:]))" alt="" coords="287,157,411,184"/>
+<area shape="rect" id="node9" href="$de/da0/cblas_8h.html#a92219ca56e84fb1db72003d7614a62e8" title=" " alt="" coords="301,208,397,235"/>
+<area shape="rect" id="node10" href="$d9/d0e/group__level1.html#gadec70609a9bbff9cb110f54f0c381187" title="Y = alpha * X + Y." alt="" coords="289,259,409,285"/>
+<area shape="rect" id="node12" href="$de/da0/cblas_8h.html#a42fd5b4f4605edd4d1662ac09aad284d" title=" " alt="" coords="301,309,397,336"/>
+<area shape="rect" id="node13" href="$d9/d0e/group__level1.html#gabe0e2eb9f3a03902916d2f290d111500" title="copy a vector: y = x" alt="" coords="289,360,409,387"/>
+<area shape="rect" id="node15" href="$de/da0/cblas_8h.html#ac4fa969a8243124ef0f623defee2db4e" title=" " alt="" coords="307,411,392,437"/>
+<area shape="rect" id="node16" href="$d9/d0e/group__level1.html#ga20eb6670b35df24bdc5512b5d579806a" title="dot product of a vector: s = dot(x, y)" alt="" coords="294,461,405,488"/>
+<area shape="rect" id="node18" href="$de/da0/cblas_8h.html#a23ac27150577c29a7ad4ddb427f255f7" title=" " alt="" coords="299,512,399,539"/>
+<area shape="rect" id="node19" href="$dd/d15/group__level2.html#ga02a73e7d895553ddaebbf5c888fa28f7" title="GEMV : y = alpha * A * x + beta * y." alt="" coords="287,563,411,589"/>
+<area shape="rect" id="node21" href="$de/da0/cblas_8h.html#a3bca0a31bfa68c9ed3f05d29421cc202" title=" " alt="" coords="301,613,398,640"/>
+<area shape="rect" id="node22" href="$d9/d0e/group__level1.html#ga4a49ce6ba086c1d5ed4b2de73c1b2edb" title="Return the 2&#45;norm of a vector." alt="" coords="288,664,411,691"/>
+<area shape="rect" id="node24" href="$de/da0/cblas_8h.html#a5b3ca82c14437efc3929439e43e42d71" title=" " alt="" coords="304,715,395,741"/>
+<area shape="rect" id="node25" href="$d9/d0e/group__level1.html#gad27a7898357a6e6338a2df77df2ce742" title="scale x with alpha." alt="" coords="291,765,407,792"/>
+<area shape="rect" id="node27" href="$de/da0/cblas_8h.html#a5e148e8153da1b5c26b56a3e62ae4949" title=" " alt="" coords="300,816,399,843"/>
+<area shape="rect" id="node28" href="$d9/d0e/group__level1.html#ga5bc082d6dbcaef92a38a7c1252720351" title="swap two vectors" alt="" coords="288,867,411,893"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="test_cblas_isamax" name="test_cblas_isamax">
+<area shape="rect" id="node1" title="absolute maximum" alt="" coords="6,31,138,57"/>
+<area shape="rect" id="node2" href="$de/da0/cblas_8h.html#a7ecf33f60f99f563254ffb4f79e3fb80" title=" " alt="" coords="199,5,302,32"/>
+<area shape="rect" id="node3" href="$d9/d0e/group__level1.html#ga3c6caf77db44f61822a9b4a6abba025b" title="Return the index i such that abs(X[i*incX]) is the maximum." alt="" coords="187,56,314,83"/>
+</map>

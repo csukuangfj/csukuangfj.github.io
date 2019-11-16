@@ -23,11 +23,13 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "BLAS/LAPACK in C and C++", "index.html", [
+    [ "Install MKL on macOS", "d8/d6b/md_install-mkl.html", null ],
     [ "Table of contents", "da/d83/md_readme.html", [
-      [ "Introduction", "da/d83/md_readme.html#autotoc_md1", null ],
-      [ "cblas", "da/d83/md_readme.html#autotoc_md2", null ],
-      [ "Documentation", "da/d83/md_readme.html#autotoc_md3", null ],
-      [ "References", "da/d83/md_readme.html#autotoc_md4", null ]
+      [ "Introduction", "da/d83/md_readme.html#autotoc_md2", null ],
+      [ "cblas", "da/d83/md_readme.html#autotoc_md3", null ],
+      [ "MKL", "da/d83/md_readme.html#autotoc_md4", null ],
+      [ "Documentation", "da/d83/md_readme.html#autotoc_md5", null ],
+      [ "References", "da/d83/md_readme.html#autotoc_md6", null ]
     ] ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
@@ -52,7 +54,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"d5/d5c/my__blas__implementation_8cc.html"
+"d0/dc1/namespacekk_1_1level2.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

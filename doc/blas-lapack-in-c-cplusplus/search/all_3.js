@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['main_164',['main',['../d5/dd4/test__blas_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'test_blas.cc']]],
-  ['my_5fblas_5fimplementation_2ecc_165',['my_blas_implementation.cc',['../d5/d5c/my__blas__implementation_8cc.html',1,'']]],
-  ['my_5fblas_5fimplementation_2eh_166',['my_blas_implementation.h',['../d7/d6c/my__blas__implementation_8h.html',1,'']]]
+  ['level_201_20functions_2e_167',['Level 1 functions.',['../d9/d0e/group__level1.html',1,'']]],
+  ['level_202_20functions_2e_168',['Level 2 functions.',['../dd/d15/group__level2.html',1,'']]]
 ];

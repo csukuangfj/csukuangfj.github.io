@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['test_5fcblas_5fsscal_324',['test_cblas_sscal',['../d5/dd4/test__blas_8cc.html#a0cb6c828c69113e43e9cc403c1956607',1,'test_blas.cc']]]
+  ['operator_3c_3c_349',['operator&lt;&lt;',['../d5/dd4/test__blas_8cc.html#aa807f0f06e835c14b5f4d5ccdbfde6bd',1,'test_blas.cc']]]
 ];
